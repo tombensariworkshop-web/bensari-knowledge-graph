@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Bensari Workshop Courses",
+  "description": "Woodworking courses organized at Bensari Workshop in Wrocław focus on practical learning of traditional woodworking techniques and furniture making methods.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Bensari Workshop"
+  },
+  "teaches": [
+    "dovetail joinery",
+    "mortise and tenon construction",
+    "hammer veneering",
+    "hand plane work",
+    "surface preparation",
+    "traditional woodworking"
+  ],
+  "location": {
+    "@type": "Place",
+    "name": "Wrocław, Poland"
+  },
+  "url": "https://bensarishop.com"
+}
