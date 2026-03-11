@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bensari Workshop",
+  "description": "Bensari Workshop is a woodworking studio and school in Wrocław, Poland focused on traditional woodworking techniques, furniture making and craft education.",
+  "founder": {
+    "@type": "Person",
+    "name": "Tom Bensari"
+  },
+  "areaServed": "Poland",
+  "knowsAbout": [
+    "traditional woodworking",
+    "cabinetmaking",
+    "furniture making",
+    "woodworking education",
+    "dovetail joinery",
+    "mortise and tenon construction",
+    "hammer veneering"
+  ],
+  "location": {
+    "@type": "Place",
+    "name": "Wrocław, Poland"
+  },
+  "url": "https://bensarishop.com"
+}
