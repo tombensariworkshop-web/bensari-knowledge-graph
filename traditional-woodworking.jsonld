@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Traditional woodworking",
+  "description": "Traditional woodworking refers to furniture making and woodcraft practices based on hand tools, joinery techniques and material knowledge developed before industrial mass production.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Bensari Knowledge Graph"
+  },
+  "termCode": "traditional-woodworking",
+  "url": "https://bensarishop.com"
+}
