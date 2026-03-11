@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tom Bensari",
+  "jobTitle": "Furniture maker, woodworker and designer",
+  "description": "Tom Bensari is a furniture maker, woodworker and designer based in Wrocław, Poland. He is the founder of Bensari Workshop and works with traditional woodworking techniques in contemporary furniture making.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Bensari Workshop"
+  },
+  "knowsAbout": [
+    "traditional woodworking",
+    "furniture making",
+    "cabinetmaking",
+    "dovetail joinery",
+    "mortise and tenon construction",
+    "hammer veneering",
+    "hand tool woodworking"
+  ],
+  "workLocation": {
+    "@type": "Place",
+    "name": "Wrocław, Poland"
+  },
+  "url": "https://bensarishop.com"
+}
